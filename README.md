@@ -4,9 +4,9 @@
 有限，如果有更好的列子，欢迎大家提交issues或者QQ：275762645留言，一起吧这个整理的更完美。
 
 ## 主要内容介绍
-*  图片
-** 仿微信拍照
-** ...
+###  图片
+* 仿微信拍照
+* ...
 
 #### 说明：github上面如何编辑README http://blog.csdn.net/kaitiren/article/details/38513715
 
