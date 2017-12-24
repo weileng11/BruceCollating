@@ -21,9 +21,12 @@
 ===============================================================================<br>
 ## 整理的具体地址
 #### 图片处理模块
-* 仿微信拍照   [仿微信拍照，带裁剪,无压缩，后面我自己修改调整一下](https://github.com/jeasonlzy/ImagePicker)
-* 图片选择器   [支持直接拍照、拍照并裁剪、单选裁剪、图片多选、图片放大预览、裁剪比例设置](https://github.com/weileng11/PhotoPicker-master)
-
+* 仿微信拍照       [仿微信拍照，带裁剪,无压缩，后面需要将里面的拍照部分获取不到size修改调整一下](https://github.com/jeasonlzy/ImagePicker)
+* 图片选择器        [支持直接拍照、拍照并裁剪、单选裁剪、图片多选、图片放大预览、裁剪比例设置](https://github.com/weileng11/PhotoPicker-master)
+* 图片的开源工具库     [Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto#%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E)
+* 图片/视频文件选择器     [支持多选、单选、拍摄和裁剪，主题可自定义，无强制绑定第三方图片](https://github.com/FinalTeam/RxGalleryFinal)
+* 图片贴贴图打标签     [相机,图片裁剪,给图片贴贴图打标签的APP](https://github.com/Skykai521/StickerCamera)
+* 图片等40余种实时滤镜相机   [可拍照、录像、图片修改](https://github.com/wuhaoyu1990/MagicCamera)
 
 ===============================================================================<br>
 #### 说明：github上面如何编辑README http://blog.csdn.net/kaitiren/article/details/38513715
