@@ -7,26 +7,83 @@
 ## 主要内容介绍
 ----------------------------------------------------------------------------------------------------
 ###  一.图片
-* 仿微信拍照
+* 仿微信拍照 （推荐使用）<br>
+----------------------------------------------------------------------------------------------------
+###  二.自定义组件
+* CircleTextImage 圆形图片里面带文字
+* RecyclerView
+* 上啦下拉刷新<br>
+----------------------------------------------------------------------------------------------------
+###  三.logCat
+* logger （推荐使用)
 * ...<br>
 ----------------------------------------------------------------------------------------------------
-###  二.数据库
+###  三.数据库
 * 数据库
 * ...<br>
 ----------------------------------------------------------------------------------------------------
-###  二.数据库
+###  三.数据库
 * 数据库
-* ...
+* ...<br>
+----------------------------------------------------------------------------------------------------
+###  三.开源库
+* Android开源库
+* ...<br>
+----------------------------------------------------------------------------------------------------
+###  三.android屏幕适配
+* Android屏幕适配方案
+* ...<br>
+----------------------------------------------------------------------------------------------------
+###  三.其他工具
+* PxCook 最高效易用的自动标注工具
+* ...<br>
+----------------------------------------------------------------------------------------------------
+###  三.android工具类
+* AndroidUtilCode安卓工具类库
+* ...<br>
+----------------------------------------------------------------------------------------------------
 
 ===============================================================================<br>
 ## 整理的具体地址
 #### 图片处理模块
-* 仿微信拍照       [仿微信拍照，带裁剪,无压缩，后面需要将里面的拍照部分获取不到size修改调整一下](https://github.com/jeasonlzy/ImagePicker)
+* 仿微信拍照       [仿微信拍照，带裁剪,无压缩，后面需要将里面的拍照部分获取不到size修改调整一下(推荐使用)](https://github.com/jeasonlzy/ImagePicker)
 * 图片选择器        [支持直接拍照、拍照并裁剪、单选裁剪、图片多选、图片放大预览、裁剪比例设置](https://github.com/weileng11/PhotoPicker-master)
 * 图片的开源工具库     [Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto#%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E)
 * 图片/视频文件选择器     [支持多选、单选、拍摄和裁剪，主题可自定义，无强制绑定第三方图片](https://github.com/FinalTeam/RxGalleryFinal)
-* 图片贴贴图打标签     [相机,图片裁剪,给图片贴贴图打标签的APP](https://github.com/Skykai521/StickerCamera)
+* 图片贴图打标签     [相机,图片裁剪,给图片贴贴图打标签的APP](https://github.com/Skykai521/StickerCamera)
 * 图片等40余种实时滤镜相机   [可拍照、录像、图片修改](https://github.com/wuhaoyu1990/MagicCamera)
+
+#### 自定义组件
+* CircleTextImage [圆形图片里面带文字](https://github.com/viviant1224/CircleTextImage)
+* RecyclerView [RecyclerView之通用适配](http://blog.csdn.net/u012551350/article/details/52026740)
+* BaseRecyclerViewAdapterHelper [BRVAH是一个强大的RecyclerAdapter框架](https://www.jianshu.com/p/b343fcff51b0)
+
+* [PtrClassicFrameLayout下拉刷新控件](https://github.com/chrisbanes/Android-PullToRefresh)
+* [那些年用过的下拉刷新、上拉加载更多的库](https://www.jianshu.com/p/699e2662fc27)
+
+
+#### Android开源库
+* [Android开源库：这里有一个简单好用、含历史搜索记录的搜索框](https://www.jianshu.com/p/3682f6536e49)
+
+#### 屏幕适配
+* [Android屏幕适配方案](https://github.com/hongyangAndroid/AndroidAutoLayout)
+* [一种粗暴快速的Android全屏幕适配方案](https://github.com/Firedamp/Rudeness)
+* [Android屏幕适配方案，直接填写设计图上的像素尺寸即可](https://github.com/l123456789jy/AutoAndroidLayout)
+* [Android屏幕适配全攻略（最权威的官方适配指导](http://www.cocoachina.com/android/20151030/13971.html)
+* [Android 屏幕适配：最全面的解决方案](https://www.jianshu.com/p/ec5a1a30694b)
+
+
+#### 其它工具
+* [PxCook 最高效易用的自动标注工具](http://www.fancynode.com.cn/pxcook)
+
+#### android工具类库
+* [AndroidUtilCode是一个强大易用的安卓工具类库](https://github.com/Blankj/AndroidUtilCode)
+
+
+#### 混淆
+* [Android混淆配置总结](https://www.jianshu.com/p/155430a27f00)
+* [APK混淆通用框架（Studio）](https://www.jianshu.com/p/c02049ed035d)
+
 
 ===============================================================================<br>
 #### 说明：github上面如何编辑README http://blog.csdn.net/kaitiren/article/details/38513715
