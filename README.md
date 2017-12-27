@@ -9,7 +9,7 @@
 ###  一.[图片](#图片)
 * 仿微信拍照<br>
 ----------------------------------------------------------------------------------------------------
-###  二.自定义组件
+###  二.[自定义组件](#自定义组件)
 * CircleTextImage 圆形图片里面带文字
 * PagerSlidingTabStrip
 * RecyclerView
@@ -20,23 +20,23 @@
 * EditText
 * ...<br>
 ----------------------------------------------------------------------------------------------------
-###  三.logCat
+###  三.[logCat](#logCat)
 * logger （推荐使用)
 * ...<br>
 ----------------------------------------------------------------------------------------------------
-###  四.动画
+###  四.[动画](#动画)
 * 属性动画
 * ...<br>
 ----------------------------------------------------------------------------------------------------
-###  五.加密解密 md5 AES
+###  五.[加密解密md5AES](#加密解密md5AES)
 * 加密解密 md5 AES
 * ...<br>
 ----------------------------------------------------------------------------------------------------
-###  六.视频播放
+###  六.[视频播放](#视频播放)
 * 视频播放
 * ...<br>
 ----------------------------------------------------------------------------------------------------
-###  三.自定义控件说明
+###  七.[自定义View](#自定义View)
 * 自定义 View
 * ...<br>
 ----------------------------------------------------------------------------------------------------
@@ -75,16 +75,17 @@
 * 图片贴图打标签     [相机,图片裁剪,给图片贴贴图打标签的APP](https://github.com/Skykai521/StickerCamera)
 * 图片等40余种实时滤镜相机   [可拍照、录像、图片修改](https://github.com/wuhaoyu1990/MagicCamera)
 
-#### 2.自定义组件
+### 自定义组件
+#### 2.常用的自定义组件
 * CircleTextImage [圆形图片里面带文字](https://github.com/viviant1224/CircleTextImage)
 * PagerSlidingTabStrip [android指示器TabLayout、PagerSlidingTabStrip，仿Boss直聘，带有红点未读提示](https://github.com/q805699513/PagerSlidingTabStrip)
 * RecyclerView [RecyclerView之通用适配](http://blog.csdn.net/u012551350/article/details/52026740)
 * BaseRecyclerViewAdapterHelper [BRVAH是一个强大的RecyclerAdapter框架](https://www.jianshu.com/p/b343fcff51b0)
-* [RecyclerView仿ios左滑删除的轻量级实现](http://blog.csdn.net/fornana/article/details/60966521)<br>
+* [RecyclerView仿ios左滑删除的轻量级实现](http://blog.csdn.net/fornana/article/details/60966521)
 ----------------------------------------------------------------------------------------------------
 * [Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer](https://github.com/scwang90/SmartRefreshLayout#1)（推荐使用）
 * [PtrClassicFrameLayout下拉刷新控件](https://github.com/chrisbanes/Android-PullToRefresh)
-* [那些年用过的下拉刷新、上拉加载更多的库](https://www.jianshu.com/p/699e2662fc27)<br>
+* [那些年用过的下拉刷新、上拉加载更多的库](https://www.jianshu.com/p/699e2662fc27)
 ----------------------------------------------------------------------------------------------------
 * [Android NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
 * [Android 三种方式实现自定义圆形页面加载中效果的进度条](http://blog.csdn.net/jdsjlzx/article/details/42497253)
@@ -94,40 +95,45 @@
 * [圆弧刻度进度条](https://github.com/woodnaonly/ArcProgressBar)
 * [Android 圆形的进度条，类似于一些计步的进度显示](https://github.com/gyw520gyw/ArcProgress)
 * [Android 竖立的进度](https://github.com/hadiidbouk/ChartProgressBar-Android)
-* [Android 圆进度](https://github.com/flyou/NiceProgressBar)更多搜ProgressBar<br>
+* [Android 圆进度](https://github.com/flyou/NiceProgressBar)更多搜ProgressBar
 ----------------------------------------------------------------------------------------------------
-* [Android 悬浮菜单按钮](https://github.com/cpacm/FloatingMusicMenu)<br>
+* [Android 悬浮菜单按钮](https://github.com/cpacm/FloatingMusicMenu)
 ----------------------------------------------------------------------------------------------------
 * [Android 仿联系人列表实现ListView的A-Z字母排序和过滤搜索功能](http://892848153.iteye.com/blog/2042122)
 * [Android通讯录字母排序城市列表展示效果](http://blog.csdn.net/jaynm/article/details/51861137)
-* [Android仿微信通讯录功能，好友排序+字母索引](http://blog.csdn.net/afei__/article/details/51532132)<br>
+* [Android仿微信通讯录功能，好友排序+字母索引](http://blog.csdn.net/afei__/article/details/51532132)
 ----------------------------------------------------------------------------------------------------
-* [通用PopupWindow，几行代码搞定PopupWindow弹窗](https://github.com/pinguo-zhouwei/CustomPopwindow)<br>
+* [通用PopupWindow，几行代码搞定PopupWindow弹窗](https://github.com/pinguo-zhouwei/CustomPopwindow)
 ----------------------------------------------------------------------------------------------------
 * [自定义的仿IOS格式的EditText](https://github.com/thinkerzhangyan/EditTextApplication)
 * [可以伸缩的搜索栏](https://github.com/yuqirong/FlexibleSearchBar)
 * [Android雷达扫描显示效果，模仿QQ附近的人搜索展示 ](https://github.com/ImmortalZ/RadarScan)
-* [一款封装了 历史搜索记录功能 & 样式 的Android自定义搜索框](https://github.com/Carson-Ho/Search_Layout)<br>
+* [一款封装了 历史搜索记录功能 & 样式 的Android自定义搜索框](https://github.com/Carson-Ho/Search_Layout)
 ----------------------------------------------------------------------------------------------------
-###  3.logCat
+###  logCat
+#### 3.logCat使用
 * [logger](https://github.com/orhanobut/logger)
 * [Klog](https://github.com/ZhaoKaiQiang/KLog)
 * [Alog](https://github.com/Blankj/ALog)
 
-###  4.动画
+###  动画
+#### 4.各种动画（需扩展）
 * [Android动画-属性动画-ValueAnimator](https://www.jianshu.com/p/2966227ea0b4)
 
-###  5.加密解密 md5 AES
+###   加密解密md5AES
+####  5.加密解密 md5 AES
 * [Android 加密解密工具,推荐使用](https://github.com/GcsSloop/encrypt)
 * [Android AES加密和解密](http://blog.csdn.net/hongyan_love/article/details/44220873)
 
-###  6.视频播放
+###  视频播放
+####  6.视频播放IJKplayer，MediaPlayer，JPlayer
 * [视频播放器（IJKplayer）](https://github.com/CarGuo/GSYVideoPlayer)
 * [用IjkPlayer/MediaPlayer + TextureView封装](https://github.com/xiaoyanger0825/NiceVieoPlayer)
 * [基于exoPlayer 自定义播放器 JPlayer](https://github.com/yangchaojiang/yjPlay)
 * [安卓视频播放器 一行代码快速实现在线视频播放](https://github.com/qiushi123/VideoDemoQcl)
 
-#### 自定义View
+### 自定义View
+#### 7.自定义View
 * [自定义 View 之炫酷的成绩展示界面](https://mp.weixin.qq.com/s/WamWBViJMNksefxs8xIB_Q)
 * [Android PinnedHeaderListView 详解](http://blog.csdn.net/aaawqqq/article/details/43866339)
 * [可下拉的PinnedHeaderExpandableListView的实现](http://blog.csdn.net/singwhatiwanna/article/details/25546871)
@@ -137,10 +143,12 @@
 * [三步实现Android悬浮效果](https://www.jianshu.com/p/167507486ff2)
 * [Android滑动到顶部悬停](https://github.com/peipei1024/scroll)
 
-#### Android开源库
+### Android开源库
+#### Android开源库更新
 * [Android开源库：这里有一个简单好用、含历史搜索记录的搜索框](https://www.jianshu.com/p/3682f6536e49)
 
-#### 屏幕适配
+### 屏幕适配
+#### 所有的屏幕适配
 * [Android屏幕适配方案](https://github.com/hongyangAndroid/AndroidAutoLayout)
 * [一种粗暴快速的Android全屏幕适配方案](https://github.com/Firedamp/Rudeness)
 * [Android屏幕适配方案，直接填写设计图上的像素尺寸即可](https://github.com/l123456789jy/AutoAndroidLayout)
@@ -148,12 +156,15 @@
 * [Android 屏幕适配：最全面的解决方案](https://www.jianshu.com/p/ec5a1a30694b)
 
 
-#### 其它工具
+### 其它工具
+#### 学习其它工具
 * [PxCook 最高效易用的自动标注工具](http://www.fancynode.com.cn/pxcook)
 
-#### android工具类库
+### android工具类库
+#### android工具类库大全
 * [AndroidUtilCode是一个强大易用的安卓工具类库](https://github.com/Blankj/AndroidUtilCode)
 
+### android杂七杂八
 #### android杂七杂八
 * [Android定时每十分钟执行一次任务](http://blog.csdn.net/jabony/article/details/10171687)
 * [java根据时间排序list,使用collections.sort](http://blog.csdn.net/u010002184/article/details/51519838)
@@ -161,10 +172,12 @@
 * [Android studio中的一次编译报错Error:Execution failed for task ':app:transformClassesWithDexForDebug](http://blog.csdn.net/hejjunlin/article/details/51737003)
 
 ###  LAST.android 学习
+####  LAST.android 学习（wl）
 * [Android ConstraintLayout详解](https://www.jianshu.com/p/a8b49ff64cd3)
 * [Android上使用retrofit+okhttp时token失效的处理方案](https://www.jianshu.com/p/62ab11ddacc8)
 
-#### 混淆
+### 混淆
+#### 混淆代码
 * [Android混淆配置总结](https://www.jianshu.com/p/155430a27f00)
 * [APK混淆通用框架（Studio）](https://www.jianshu.com/p/c02049ed035d)
 
