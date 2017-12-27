@@ -81,11 +81,11 @@
 * RecyclerView [RecyclerView之通用适配](http://blog.csdn.net/u012551350/article/details/52026740)
 * BaseRecyclerViewAdapterHelper [BRVAH是一个强大的RecyclerAdapter框架](https://www.jianshu.com/p/b343fcff51b0)
 * [RecyclerView仿ios左滑删除的轻量级实现](http://blog.csdn.net/fornana/article/details/60966521)<br>
-
+----------------------------------------------------------------------------------------------------
 * [Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer](https://github.com/scwang90/SmartRefreshLayout#1)（推荐使用）
 * [PtrClassicFrameLayout下拉刷新控件](https://github.com/chrisbanes/Android-PullToRefresh)
 * [那些年用过的下拉刷新、上拉加载更多的库](https://www.jianshu.com/p/699e2662fc27)<br>
-
+----------------------------------------------------------------------------------------------------
 * [Android NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
 * [Android 三种方式实现自定义圆形页面加载中效果的进度条](http://blog.csdn.net/jdsjlzx/article/details/42497253)
 * [Android 自定义圆形进度条](https://github.com/MyLifeMyTravel/CircleProgress)
@@ -95,20 +95,20 @@
 * [Android 圆形的进度条，类似于一些计步的进度显示](https://github.com/gyw520gyw/ArcProgress)
 * [Android 竖立的进度](https://github.com/hadiidbouk/ChartProgressBar-Android)
 * [Android 圆进度](https://github.com/flyou/NiceProgressBar)更多搜ProgressBar<br>
-
+----------------------------------------------------------------------------------------------------
 * [Android 悬浮菜单按钮](https://github.com/cpacm/FloatingMusicMenu)<br>
-
+----------------------------------------------------------------------------------------------------
 * [Android 仿联系人列表实现ListView的A-Z字母排序和过滤搜索功能](http://892848153.iteye.com/blog/2042122)
 * [Android通讯录字母排序城市列表展示效果](http://blog.csdn.net/jaynm/article/details/51861137)
 * [Android仿微信通讯录功能，好友排序+字母索引](http://blog.csdn.net/afei__/article/details/51532132)<br>
-
+----------------------------------------------------------------------------------------------------
 * [通用PopupWindow，几行代码搞定PopupWindow弹窗](https://github.com/pinguo-zhouwei/CustomPopwindow)<br>
-
+----------------------------------------------------------------------------------------------------
 * [自定义的仿IOS格式的EditText](https://github.com/thinkerzhangyan/EditTextApplication)
 * [可以伸缩的搜索栏](https://github.com/yuqirong/FlexibleSearchBar)
 * [Android雷达扫描显示效果，模仿QQ附近的人搜索展示 ](https://github.com/ImmortalZ/RadarScan)
 * [一款封装了 历史搜索记录功能 & 样式 的Android自定义搜索框](https://github.com/Carson-Ho/Search_Layout)<br>
-
+----------------------------------------------------------------------------------------------------
 ###  3.logCat
 * [logger](https://github.com/orhanobut/logger)
 * [Klog](https://github.com/ZhaoKaiQiang/KLog)
