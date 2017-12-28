@@ -40,16 +40,28 @@
 * 自定义 View
 * ...<br>
 ----------------------------------------------------------------------------------------------------
-###  三.开源库
+###  八.[断点续传](#断点续传)
+* 断点续传
+* ...<br>
+----------------------------------------------------------------------------------------------------
+###  九.[开源库](#开源库)
 * Android开源库
 * ...<br>
 ----------------------------------------------------------------------------------------------------
-###  三.android屏幕适配
+###  十.[屏幕适配](#屏幕适配)
 * Android屏幕适配方案
 * ...<br>
 ----------------------------------------------------------------------------------------------------
-###  三.其他工具
+###  十一.[第三方分享](#第三方分享)
+* QQ和微信，新浪
+* ...<br>
+----------------------------------------------------------------------------------------------------
+###  十二.[其他工具](#其他工具)
 * PxCook 最高效易用的自动标注工具
+* ...<br>
+----------------------------------------------------------------------------------------------------
+###  十三.[网络请求框架](#网络请求框架)
+* RxEasyHttp okgo okhttp3
 * ...<br>
 ----------------------------------------------------------------------------------------------------
 ###  三.android工具类
@@ -82,6 +94,8 @@
 * RecyclerView [RecyclerView之通用适配](http://blog.csdn.net/u012551350/article/details/52026740)
 * BaseRecyclerViewAdapterHelper [BRVAH是一个强大的RecyclerAdapter框架](https://www.jianshu.com/p/b343fcff51b0)
 * [RecyclerView仿ios左滑删除的轻量级实现](http://blog.csdn.net/fornana/article/details/60966521)
+* [打造最强RecyclerView，Item侧滑菜单，长按拖拽Item，滑动删除Item](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0805/4573.html)
+* [Android实现RecyclerView左侧滑删除与右侧滑选择](http://download.csdn.net/download/qq_22770457/9736919#comment)
 ----------------------------------------------------------------------------------------------------
 * [Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer](https://github.com/scwang90/SmartRefreshLayout#1)（推荐使用）
 * [PtrClassicFrameLayout下拉刷新控件](https://github.com/chrisbanes/Android-PullToRefresh)
@@ -102,6 +116,8 @@
 * [Android 仿联系人列表实现ListView的A-Z字母排序和过滤搜索功能](http://892848153.iteye.com/blog/2042122)
 * [Android通讯录字母排序城市列表展示效果](http://blog.csdn.net/jaynm/article/details/51861137)
 * [Android仿微信通讯录功能，好友排序+字母索引](http://blog.csdn.net/afei__/article/details/51532132)
+* [Android】使用RecyclerView优雅实现悬浮标题通讯录](https://www.jianshu.com/p/52bce7f59c00)
+* [Android 实现ListView的A-Z字母排序和过滤搜索功能，实现汉字转成拼音](http://blog.csdn.net/xiaanming/article/details/12684155)
 ----------------------------------------------------------------------------------------------------
 * [通用PopupWindow，几行代码搞定PopupWindow弹窗](https://github.com/pinguo-zhouwei/CustomPopwindow)
 ----------------------------------------------------------------------------------------------------
@@ -139,30 +155,61 @@
 * [可下拉的PinnedHeaderExpandableListView的实现](http://blog.csdn.net/singwhatiwanna/article/details/25546871)
 * [Android之联系人PinnedHeaderListView使用](http://download.csdn.net/download/fx_sky/5995355#comment)
 * [使用PinnedHeaderListView实现固定头部的列表](http://blog.csdn.net/ruancoder/article/details/52076039)
+* [Android仿联系人列表分组悬浮列表,PinnedHeaderListView源码解析](http://blog.csdn.net/u010335298/article/details/51178179)
+* [Android仿联系人列表分组悬浮列表实现，自定义PinnedHeaderListView实现](http://blog.csdn.net/u010335298/article/details/51150346)
+* [Android实用view系列------炫酷的进度条](https://www.jianshu.com/p/7ecdb565e8f0?open_source=weibo_search)
 
+* [Android5.0之NavigationView的使用](http://blog.csdn.net/u012702547/article/details/51253222)
+----------------------------------------------------------------------------------------------------
 * [三步实现Android悬浮效果](https://www.jianshu.com/p/167507486ff2)
 * [Android滑动到顶部悬停](https://github.com/peipei1024/scroll)
 
-### Android开源库
-#### Android开源库更新
+### 断点续传
+#### 8.Android 断点续传
+* [Android 使用多线程来做多文件上传Or下载](http://blog.csdn.net/qq402164452/article/details/53896099)
+* [Android-Service之多线程断点续传下载](https://github.com/lishide/DownloadDemo)
+* [Android-Service之多线程断点续传下载 加入了七牛](https://github.com/weileng11/DownloadDemo-master)
+* [Android多线程，断点传输](https://segmentfault.com/a/1190000009937326)
+
+
+### 开源库
+#### 9.Android开源库更新
 * [Android开源库：这里有一个简单好用、含历史搜索记录的搜索框](https://www.jianshu.com/p/3682f6536e49)
 
 ### 屏幕适配
-#### 所有的屏幕适配
+#### 10.所有的屏幕适配
 * [Android屏幕适配方案](https://github.com/hongyangAndroid/AndroidAutoLayout)
 * [一种粗暴快速的Android全屏幕适配方案](https://github.com/Firedamp/Rudeness)
 * [Android屏幕适配方案，直接填写设计图上的像素尺寸即可](https://github.com/l123456789jy/AutoAndroidLayout)
 * [Android屏幕适配全攻略（最权威的官方适配指导](http://www.cocoachina.com/android/20151030/13971.html)
 * [Android 屏幕适配：最全面的解决方案](https://www.jianshu.com/p/ec5a1a30694b)
 
+### 第三方分享
+#### 11.QQ,WX,XL分享
+* [Android 微信分享图片!!!](http://blog.csdn.net/u013241923/article/details/53635236)
+* [Android 微信分享与QQ分享功能](https://www.jianshu.com/p/7100645fe1a8)
+* [Android QQ分享本地url,demo仅用来获取mipmap目录下的图片](https://github.com/weileng11/BitmapUtilDemo-master)
+* [Android 分享到新浪微博](http://blog.csdn.net/u010241861/article/details/51924904)
 
 ### 其它工具
-#### 学习其它工具
+#### 12.学习其它工具
 * [PxCook 最高效易用的自动标注工具](http://www.fancynode.com.cn/pxcook)
+* [七牛 最高效上传图片](https://developer.qiniu.com/kodo/sdk/1236/android)
+* [Android如何制作自己的依赖库上传至github供别人下载使用](http://blog.csdn.net/xuchao_blog/article/details/62893851)
+* [第一次使用Android Studio时你应该知道的一切配置](http://www.cnblogs.com/smyhvae/p/4390905.html)
+* [Android SDk Manager里面到底哪些东西是必须下载的](https://www.zhihu.com/question/31935836)
+* [Android Studio添加忽略文件](http://blog.csdn.net/lyankj/article/details/52218742)
+
+### 网络请求框架
+#### 13.网络请求框架.....
+* [RxEasyHttp](https://github.com/zhou-you/RxEasyHttp)
+* [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
 
 ### android工具类库
 #### android工具类库大全
 * [AndroidUtilCode是一个强大易用的安卓工具类库](https://github.com/Blankj/AndroidUtilCode)
+* [Android快速开发框架，采用AndroidStudio进行开发](https://github.com/jiangqqlmj/FastDev4Android)
+
 
 ### android杂七杂八
 #### android杂七杂八
@@ -170,6 +217,10 @@
 * [java根据时间排序list,使用collections.sort](http://blog.csdn.net/u010002184/article/details/51519838)
 * [Android对数据按照时间排序](http://blog.csdn.net/qq_16131393/article/details/75289079)
 * [Android studio中的一次编译报错Error:Execution failed for task ':app:transformClassesWithDexForDebug](http://blog.csdn.net/hejjunlin/article/details/51737003)
+* [android的Dialog全屏、activity大小的设置详解](http://www.lxway.com/4069404966.htm)
+* [Android中通过xml改变背景及文字颜色](https://www.cnblogs.com/ivan-xu/p/4555534.html)
+* [多个activity页面跳转，跳过中间页面返回前边页面传值](http://blog.csdn.net/github_36719758/article/details/68946471)
+* [Activity从屏幕底部滑出、滑入、处理黑色背景和状态栏](http://blog.csdn.net/hello_1s/article/details/62892331)
 
 ###  LAST.android 学习
 ####  LAST.android 学习（wl）
