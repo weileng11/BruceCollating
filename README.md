@@ -213,7 +213,7 @@
 
 ### android杂七杂八
 #### android杂七杂八
-* [Android定时每十分钟执行一次任务](http://blog.csdn.net/jabony/article/details/10171687)
+* [Android定时每十分钟执行一次任务](http://blog.csdn.net/upset7117/article/details/70783514)
 * [java根据时间排序list,使用collections.sort](http://blog.csdn.net/u010002184/article/details/51519838)
 * [Android对数据按照时间排序](http://blog.csdn.net/qq_16131393/article/details/75289079)
 * [Android studio中的一次编译报错Error:Execution failed for task ':app:transformClassesWithDexForDebug](http://blog.csdn.net/hejjunlin/article/details/51737003)
